@@ -1,42 +1,36 @@
-# 🧠 Monolog
+# Monolog
 
-**Monolog** is a clean, AI-powered journaling web app built for people who think fast and feel smarter with clarity. It’s minimal, distraction-free, and lets users reflect, plan, or brain-dump — without noise.
+A quiet little space that turned into a soul project somewhere around day four of no sleep.
 
-## ⚡ What it does
+This is **Monolog** — a journaling web app built for people who talk to themselves more than they talk to the world. Not a productivity tracker. Not a mood board. Just a place to write, feel, reflect, and maybe talk to something that listens.
 
-Monolog gives you a blank space and AI support when you need it. Whether it’s for logging thoughts, sorting your day, or asking “What am I even doing?” — it’s built to adapt to YOU.
+Built using:
+- Next.js (because pain)
+- TailwindCSS (because I still believe in pretty)
+- Vercel (used it for inspo, had to build the rest omo)
+- Cursor (AI + VSCode = me pretending to be a 10x dev)
+- Several unhealthy coping mechanisms
 
-## 🚀 Features
+### 🧠 Core Features
+- Journaling interface with auto-save (almost doesn’t break)
+- Sidebar to browse recent entries like you’re Notion-core
+- “Whisper to Monya” — not a chatbot, not a therapist, just... a gentle mirror
+- Sections like **Heart Guidance**, **Gratitude**, and **Present Heart** (because why not cry a little)
 
-- Clean UI built with HTML/CSS/JS
-- GPT-powered journaling prompts (planned)
-- Sidebar for saved entries (Notion-inspired layout)
-- Light/dark theme support (coming soon)
-- First full-stack deployment experience (in progress)
+### 🌱 What’s Coming
+- Firebase or Supabase integration to save entries (still deciding)
+- AI-powered mood reflection
+- Themes, light/dark/blackout-at-3am mode
+- Multi-entry navigation and search
+- Maybe an easter egg that sends you cat pictures when you're sad
 
-
-## 🛠️ Tech Stack
-
-- Frontend: HTML5, CSS3, JavaScript  
-- Backend: Python (Flask) or Node.js (TBD) 
-- AI: OpenAI API  
-- Deployment: Netlify + Render / Vercel + Railway (depending)
-
-## 🎯 Why I built it
-
-This is my first full-stack solo project — built from scratch to sharpen my skills in frontend, backend, API integration, and real-world deployment. It’s my sandbox for experimenting with AI, clean UI, and everything in between.
-
-## 📦 Project Status
-
-Monolog is in active development, designed and built as a personal learning project to explore full-stack web dev and practical AI integration.
-
-## 📂 File Structure (soon)
-
+### 🧾 How to Run
 ```bash
-monolog/
-├── public/         # frontend files (HTML, CSS)
-├── src/            # JS & API logic
-├── server/         # backend (Flask or Node.js)
-├── README.md
+git clone https://github.com/MChakrabartyy/monolog-webapp.git
+cd monolog-webapp
+npm install --legacy-peer-deps
+npm run dev
+Then hit https://localhost:3000
+And maybe write something you wouldn't say out loud.
 
-
+### Unasked FYI: the inspo for the app name "Monolog" comes from the bengali word Mon, which means Heart. So, it's basically a safe space where you can write your heart out ( be it cursing your boss out or jutting down 3 am thoughts)
