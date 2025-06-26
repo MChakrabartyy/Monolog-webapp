@@ -25,7 +25,7 @@ Built using:
 
 
 ### 
-Unasked FYI: the inspo for the app name "Monolog" comes from the bengali word Mon, which means Heart. So, it's basically a safe space where you can write your heart out ( be it cursing your boss out or jutting down 3 am thoughts)
+Unasked FYI: the inspo for the app name "Monolog" comes from the bengali word Mon, which means Heart. So, it's basically a safe space where you can write your heart out ( be it cursing your boss out or jotting down 3 am thoughts)
 
 ### 🧾 How to Run
 
