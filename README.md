@@ -17,6 +17,7 @@ Built using:
 - “Whisper to Monya” — not a chatbot, not a therapist, just... a gentle mirror
 - Sections like **Heart Guidance**, **Gratitude**, and **Present Heart** (because why not cry a little)
 
+
 ### 🌱 What’s Coming
 - Firebase or Supabase integration to save entries (still deciding)
 - AI-powered mood reflection
@@ -24,7 +25,10 @@ Built using:
 - Multi-entry navigation and search
 - Maybe an easter egg that sends you cat pictures when you're sad
 
+
+### Unasked FYI: the inspo for the app name "Monolog" comes from the bengali word Mon, which means Heart. So, it's basically a safe space where you can write your heart out ( be it cursing your boss out or jutting down 3 am thoughts)
 ### 🧾 How to Run
+
 ```bash
 git clone https://github.com/MChakrabartyy/monolog-webapp.git
 cd monolog-webapp
@@ -32,5 +36,3 @@ npm install --legacy-peer-deps
 npm run dev
 Then hit https://localhost:3000
 And maybe write something you wouldn't say out loud.
-
-### Unasked FYI: the inspo for the app name "Monolog" comes from the bengali word Mon, which means Heart. So, it's basically a safe space where you can write your heart out ( be it cursing your boss out or jutting down 3 am thoughts)
