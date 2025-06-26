@@ -14,7 +14,7 @@ Built using:
 ###  Core Features
 - Journaling interface with auto-save (almost doesn’t break)
 - Sidebar to browse recent entries like you’re Notion-core
-- “Whisper to Monya” — not a chatbot, not a therapist, just... a gentle mirror
+- “Whisper to lia” — not a chatbot, not a therapist, just... a gentle mirror
 - Sections like **Heart Guidance**, **Gratitude**, and **Present Heart** (because why not cry a little)
 
 
