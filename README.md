@@ -11,14 +11,14 @@ Built using:
 - Cursor (AI + VSCode = me pretending to be a 10x dev)
 - Several unhealthy coping mechanisms
 
-### 🧠 Core Features
+###  Core Features
 - Journaling interface with auto-save (almost doesn’t break)
 - Sidebar to browse recent entries like you’re Notion-core
 - “Whisper to Monya” — not a chatbot, not a therapist, just... a gentle mirror
 - Sections like **Heart Guidance**, **Gratitude**, and **Present Heart** (because why not cry a little)
 
 
-### 🌱 What’s Coming
+###  What’s Coming
 - Firebase or Supabase integration to save entries (still deciding)
 - AI-powered mood reflection
 - Themes, light/dark/blackout-at-3am mode
