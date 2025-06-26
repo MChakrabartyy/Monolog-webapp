@@ -1,12 +1,12 @@
 # Monolog
 
-This is **Monolog**, a journaling web app built for people who talk to themselves more than they talk to the world. Not a productivity tracker. Not a mood board. Just a place to write, feel, reflect, and maybe talk to something that listens.
+This is **Monolog**, a journaling web app built for people who talk to themselves more than they talk to the world. Not a productivity tracker, Not a mood board, Just a place to write, feel, reflect, and maybe talk to something that listens.
 
 Built using:
 - Next.js (because pain)
 - TailwindCSS (because I still believe in pretty)
 - Vercel (used it for inspo, had to build the rest omo)
-- Cursor (AI + VSCode = me pretending to be a 10x dev)
+- Cursor (cuz why not take all the help u can get )
 - Several unhealthy coping mechanisms
 
 ###  Core Features
