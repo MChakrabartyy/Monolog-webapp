@@ -1,8 +1,6 @@
 # Monolog
 
-A quiet little space that turned into a soul project somewhere around day four of no sleep.
-
-This is **Monolog** — a journaling web app built for people who talk to themselves more than they talk to the world. Not a productivity tracker. Not a mood board. Just a place to write, feel, reflect, and maybe talk to something that listens.
+This is **Monolog**, a journaling web app built for people who talk to themselves more than they talk to the world. Not a productivity tracker. Not a mood board. Just a place to write, feel, reflect, and maybe talk to something that listens.
 
 Built using:
 - Next.js (because pain)
